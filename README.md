@@ -37,7 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nitinryali/nitinryali/output/snake.svg" alt="Snake animation" />
 
 ###
 
