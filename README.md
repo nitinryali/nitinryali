@@ -39,7 +39,6 @@
 
 
 ###
-
 <div align="center">
   <a href="https://www.instagram.com/nithiin._7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="34" alt="instagram logo"  />
@@ -56,6 +55,15 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nitinryali/count.svg?"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+  [![An image of @nitinryali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinryali)](https://holopin.io/@nitinryali)
+
 </div>
 
 ###
