@@ -61,9 +61,9 @@
 
 ###
 
-<div align="center">
-  [![An image of @nitinryali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinryali)](https://holopin.io/@nitinryali)
 
-</div>
+[![An image of @nitinryali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitinryali)](https://holopin.io/@nitinryali)
+
+
 
 ###
