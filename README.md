@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 All of my projects are available at https://nitinryali.github.io/Portfolio/<br><br>📫 How to reach me : rnsaisrinivas7@gmail.com<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1SYf9s_zoyEs9z641NfjXJ7wIx4rCTxpU/view?usp=drive_link]</p>
+<p align="left">👨‍💻 All of my projects are available at https://nitinryali.github.io/Portfolio/<br><br>📫 How to reach me : [rnsaisrinivas7@gmail.com]<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1SYf9s_zoyEs9z641NfjXJ7wIx4rCTxpU/view?usp=drive_link]</p>
 
 ###
 
