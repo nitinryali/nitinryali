@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nithin and I'm a  undergrad in Computer science..</h2>
+<h2 align="left">Hi 👋! My name is Nithin and I'm currently working as SDE - I @ Phenom </h2>
 
 ###
 
