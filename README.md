@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Nithin and I'm currently working as SDE - I @ Phenom </h2>
+<h2 align="left">Hi 👋! My name is Nithin and I'm currently working as SDE - II @ Phenom </h2>
 
 ###
 
 <p align="left">👨‍💻 All of my projects are available at https://nitinryali.github.io/Portfolio-v2/ <br>
   <br>📫 How to reach me : rnsaisrinivas7@gmail.com <br>
-  <br>📄 Know about my experiences [https://drive.google.com/file/d/1SYf9s_zoyEs9z641NfjXJ7wIx4rCTxpU/view?usp=drive_link]
+  <br>📄 Know about my experiences [https://www.linkedin.com/in/ryali-nitin-sai-srinivas-56b992200]
 </p>
 
 ###
